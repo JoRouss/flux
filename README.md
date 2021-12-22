@@ -59,7 +59,7 @@ build-essential is a recommended dependency
 
 ```bash
 
-sudo apt-get build-essential
+sudo apt-get install build-essential
 ```
 
 Setup Mongodb on Ubuntu 18.04 (LTS):
@@ -198,7 +198,7 @@ sudo ufw allow 16127/tcp
 Install Flux dependancies (Ubuntu/CentOS/Redhat):
 
 ```bash
-cd Flux
+cd flux
 
 npm install
 ```
